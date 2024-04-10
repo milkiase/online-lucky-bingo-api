@@ -1,0 +1,25 @@
+{
+  "name": "lucky-bingo-api",
+  "version": "1.0.0",
+  "description": "online bingo multiplayer realtime game api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milkiase/online-lucky-bingo-api.git"
+  },
+  "author": "Milkias Tesfalem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milkiase/online-lucky-bingo-api/issues"
+  },
+  "homepage": "https://github.com/milkiase/online-lucky-bingo-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.1",
+    "socket.io": "^4.7.5"
+  }
+}
